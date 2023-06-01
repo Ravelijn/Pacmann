@@ -10,7 +10,7 @@ Program kasir mandiri ini berbentuk modular code, yaitu terdapat file yang menyi
 
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/a07bd6d9-11a6-46d9-a42f-4d07c3b91bcf)
 
-Fungsi
+**Fungsi**
 
 1. Clash : Membuat suatu class yang diberi nama Transaction yang digunakan untuk menghimpun data dan fungsi
 2. Method : init untuk menyimpan data item belanjaan dalam bentuk dictionary
@@ -22,3 +22,14 @@ Fungsi
 8. Method : reset_transaction untuk menghapus seluruh item data belanja
 9. Method : check_order untuk mengecek daftar belanjaan yang sudah diinput
 10.Method : total_price untuk menghitung harga total dari semua item
+
+Test Case
+
+Test Case 1 
+Customer ingin menambahkan dua item baru dengan menggunakan method add_item(). Item yang ditambahkan adalah sebagai berikut: 
+Nama Item : Ayam Goreng, Qty:2; Harga : 20000
+Nama Item : Pasta Gigi, Qty:3; Harga : 15000
+
+![image](https://github.com/Ravelijn/Pacmann/assets/135209359/33c9260a-2c14-4a94-a794-cde3854d1f2c)
+
+
