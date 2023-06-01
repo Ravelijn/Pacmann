@@ -50,6 +50,11 @@ Expected Output :
 
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/4a1ed75a-8eec-4615-b534-1bb2124648c2)
 
+**Test Case 4 **
+Test keempat Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method total_price(). Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
+Expected Output :
+
+
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/d9282c3b-5d7e-475e-833e-0bf9f1eadbfc)
 
 
