@@ -32,4 +32,10 @@ Nama Item : Pasta Gigi, Qty:3; Harga : 15000
 
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/33c9260a-2c14-4a94-a794-cde3854d1f2c)
 
+Test Case 2 
+Ternyata customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan method delete_item() untuk menghapus item. Item yang ingin dihapuskan adalah **Pasta Gigi**
+
+![image](https://github.com/Ravelijn/Pacmann/assets/135209359/a353e878-c103-4d3b-82aa-e7998a9eb787)
+
+
 
