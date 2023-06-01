@@ -381,12 +381,12 @@ class Transaction:
           if sum(self.data_all_item["Total Harga"]) > 500000:
               print("Sebelum mendapatkan diskon 10%: Rp.{}".format(sum(self.data_all_item["Total Harga"])))
               print("Setelah mendapatkan diskon 10%: Rp.{}".format(
-                  int(sum(self.data_all_item["Total Harga"]) - (sum(self.data_all_item["Total Harga"]) * 0.10))))
+                  sum(self.data_all_item["Total Harga"]) - (sum(self.data_all_item["Total Harga"]) * 0.10)))
           elif sum(self.data_all_item["Total Harga"]) > 300000:
               print("Sebelum mendapatkan diskon 8%: Rp.{}".format(sum(self.data_all_item["Total Harga"])))
               print("Setelah mendapatkan diskon 8%: Rp.{}".format(
-                  sum(int(self.data_all_item["Total Harga"]) - (sum(self.data_all_item["Total Harga"]) * 0.08))))
+                  sum(self.data_all_item["Total Harga"]) - (sum(self.data_all_item["Total Harga"]) * 0.08)))
           elif sum(self.data_all_item["Total Harga"]) > 200000:
               print("Sebelum mendapatkan diskon 5%: Rp.{}".format(sum(self.data_all_item["Total Harga"])))
               print("Setelah mendapatkan diskon 5%: Rp.{}".format(
-                  sum(int(self.data_all_item['Total Harga']) - (sum(self.data_all_item["Total Harga"]) * 0.05))))
+                  sum(self.data_all_item['Total Harga']) - (sum(self.data_all_item["Total Harga"]) * 0.05)))
