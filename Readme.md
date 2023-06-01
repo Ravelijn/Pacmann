@@ -30,16 +30,26 @@ Customer ingin menambahkan dua item baru dengan menggunakan method add_item(). I
 Nama Item : Ayam Goreng, Qty:2; Harga : 20000
 Nama Item : Pasta Gigi, Qty:3; Harga : 15000
 Expected Output :
+
+
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/33c9260a-2c14-4a94-a794-cde3854d1f2c)
 
 
 **Test Case 2 **
 Ternyata customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan method delete_item() untuk menghapus item. Item yang ingin dihapuskan adalah **Pasta Gigi**
 Expected Output :
+
+
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/a353e878-c103-4d3b-82aa-e7998a9eb787)
+
 
 **Test Case 3 **
 Ternyata setelah dipikir-pikir customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka customer cukup menggunakan method reset_transaction() untuk menghapus semua item yang sudah ditambahkan
 Expected Output :
+
+
 ![image](https://github.com/Ravelijn/Pacmann/assets/135209359/4a1ed75a-8eec-4615-b534-1bb2124648c2)
+
+![image](https://github.com/Ravelijn/Pacmann/assets/135209359/d9282c3b-5d7e-475e-833e-0bf9f1eadbfc)
+
 
