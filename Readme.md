@@ -48,13 +48,24 @@ Ternyata setelah dipikir-pikir customer salah memasukkan item yang ingin dibelan
 Expected Output :
 
 
-![image](https://github.com/Ravelijn/Pacmann/assets/135209359/4a1ed75a-8eec-4615-b534-1bb2124648c2)
+![image](https://github.com/Ravelijn/Super-Cashier/assets/135209359/17ce3c5b-b35d-4352-b14c-5e3c161e7e42)
 
 **Test Case 4 **
 Test keempat Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method total_price(). Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
 Expected Output :
 
 
-![image](https://github.com/Ravelijn/Pacmann/assets/135209359/d9282c3b-5d7e-475e-833e-0bf9f1eadbfc)
+![image](https://github.com/Ravelijn/Super-Cashier/assets/135209359/f241f508-15e3-4442-838e-214d8f8a389c)
+**
+Code Project**
+Project ini memiliki 2 file,  yaitu  :
+main.py untuk menjalankan program super cashier dan hanya berisi object dari class Transaction
+modul.py digunakan sebagai modul yang berisi class, function dan attributes. 
+isi file sebagai berikut:
+
+import pandas as pd
+import os
+
+
 
 
