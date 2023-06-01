@@ -3,3 +3,6 @@ Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari su
 
 Requirement
 Program kasir mandiri ini berbentuk modular code, yaitu terdapat file yang menyimpan code (modul_py) kemudian satu file main.py untuk mengeksekusi code. Untuk membantu visualisasi tabel dibutuhkan modul pandas. Data akan disimpan dalam bentuk dictionary, program ini akan menggunakan 9 method.
+
+
+![image](https://github.com/Ravelijn/Pacmann/assets/135209359/efb50859-ff97-4ede-99e6-6d8e6333377e)
